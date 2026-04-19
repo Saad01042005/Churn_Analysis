@@ -1,4 +1,4 @@
-# 📉 Customer Churn Analysis Dashboard — Power BI
+# Customer Churn Analysis Dashboard — Power BI
 
 ![Power BI](https://img.shields.io/badge/Built%20with-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Dataset](https://img.shields.io/badge/Dataset-Telco%20Churn%20(Kaggle)-blue?style=for-the-badge)
@@ -6,13 +6,13 @@
 
 ![Executive Summary](Screenshots/summary.png)
 
-## 📌 Project Overview
+## Project Overview
 
 This Power BI dashboard provides an end-to-end visual analysis of customer churn behavior for a telecommunications company. Built using the popular **Telco Customer Churn dataset from Kaggle**, the dashboard helps stakeholders understand *who* is churning, *why* they are churning, and *what revenue impact* churn is causing — enabling data-driven retention strategies.
 
 ---
 
-## 📂 Data Source
+## Data Source
 
 | Field | Details |
 |---|---|
@@ -32,7 +32,7 @@ This Power BI dashboard provides an end-to-end visual analysis of customer churn
 
 ---
 
-## 📊 Key KPIs & Metrics
+## Key KPIs & Metrics
 
 | KPI | Description |
 |---|---|
@@ -45,7 +45,7 @@ This Power BI dashboard provides an end-to-end visual analysis of customer churn
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 1. **Significant Churn Impact on Revenue:** The company faces a **27.0% overall churn rate**, translating to **$1.06 Million in Total Revenue at Risk** out of $5.99 Million in total revenue — over one-sixth of total revenue.
 
@@ -63,7 +63,7 @@ This Power BI dashboard provides an end-to-end visual analysis of customer churn
 
 ---
 
-## ✅ Recommendations
+## Recommendations
 
 1. **Targeted Retention Program for Fibre Optic Customers:** Conduct surveys, exit interviews, and service quality audits specifically for Fibre Optic customers — especially in high-churn regions — to understand and address the precise reasons for departure.
 
@@ -77,10 +77,10 @@ This Power BI dashboard provides an end-to-end visual analysis of customer churn
 
 ---
 
-## 🖼️ Dashboard Pages
+## Dashboard Pages
 
 <details>
-<summary>📂 Click to explore all dashboard pages</summary>
+<summary> Click to explore all dashboard pages</summary>
 
 ### Customer Risk Assessment
 > Breaks down churn by internet type, tenure, contract, and churn reasons with revenue at risk metrics.
@@ -101,7 +101,7 @@ This Power BI dashboard provides an end-to-end visual analysis of customer churn
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Microsoft Power BI Desktop** — Dashboard design, DAX measures, and data modeling
 - **Power Query** — Data cleaning and transformation
@@ -109,7 +109,7 @@ This Power BI dashboard provides an end-to-end visual analysis of customer churn
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Download or clone this repository.
 2. Open the `.pbix` file in **Power BI Desktop** (free download from [Microsoft](https://powerbi.microsoft.com/desktop/)).
@@ -118,23 +118,23 @@ This Power BI dashboard provides an end-to-end visual analysis of customer churn
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
-📦 churn-dashboard
- ┣ 📊 Churn_Analysis (Dashboard).pbix           # Power BI dashboard file
- ┣ 📓 Churn_Analysis.ipynb                      # Jupyter notebook (EDA & analysis)
- ┣ 📁 Screenshots/
- ┃ ┣ 🖼️ summary.png                             # Executive Summary page
- ┃ ┣ 🖼️ customer_risk.png                       # Customer Risk page
- ┃ ┣ 🖼️ services.png                            # Services Offered page
- ┃ ┗ 🖼️ finances.png                            # Finances page
- ┗ 📝 README.md                                 # Project documentation
+churn-dashboard
+ ┣ Churn_Analysis (Dashboard).pbix           # Power BI dashboard file
+ ┣ Churn_Analysis.ipynb                      # Jupyter notebook (EDA & analysis)
+ ┣ Screenshots/
+ ┃ ┣ summary.png                             # Executive Summary page
+ ┃ ┣ customer_risk.png                       # Customer Risk page
+ ┃ ┣ services.png                            # Services Offered page
+ ┃ ┗ finances.png                            # Finances page
+ ┗ README.md                                 # Project documentation
 ```
 
 ---
 
-## 🙋‍♂️ Author
+## Author
 
 Feel free to connect or reach out if you have feedback or questions!
 

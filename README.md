@@ -4,7 +4,7 @@
 ![Dataset](https://img.shields.io/badge/Dataset-Telco%20Churn%20(Kaggle)-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
-![Executive Summary](screenshots/summary.png)
+![Executive Summary](Screenshots/summary.png)
 
 ## 📌 Project Overview
 
@@ -85,17 +85,17 @@ This Power BI dashboard provides an end-to-end visual analysis of customer churn
 ### Customer Risk Assessment
 > Breaks down churn by internet type, tenure, contract, and churn reasons with revenue at risk metrics.
 
-![Customer Risk](screenshots/customer_risk.png)
+![Customer Risk](Screenshots/customer_risk.png)
 
 ### Services Offered
 > Shows churn distribution across all services — Phone, Internet, Streaming, Security, and more.
 
-![Services Offered](screenshots/services.png)
+![Services Offered](Screenshots/services.png)
 
 ### Finances
 > Revenue breakdown by contract type, payment method, state, value deals, and charge type.
 
-![Finances](screenshots/finances.png)
+![Finances](Screenshots/finances.png)
 
 </details>
 
@@ -122,9 +122,9 @@ This Power BI dashboard provides an end-to-end visual analysis of customer churn
 
 ```
 📦 churn-dashboard
- ┣ 📊 Churn_Dashboard.pbix                      # Power BI dashboard file
- ┣ 📄 WA_Fn-UseC_-Telco-Customer-Churn.csv      # Source dataset
- ┣ 📁 screenshots/
+ ┣ 📊 Churn_Analysis (Dashboard).pbix           # Power BI dashboard file
+ ┣ 📓 Churn_Analysis.ipynb                      # Jupyter notebook (EDA & analysis)
+ ┣ 📁 Screenshots/
  ┃ ┣ 🖼️ summary.png                             # Executive Summary page
  ┃ ┣ 🖼️ customer_risk.png                       # Customer Risk page
  ┃ ┣ 🖼️ services.png                            # Services Offered page
